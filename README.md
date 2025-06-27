@@ -1,6 +1,5 @@
 SVM Classification on Breast Cancer Dataset
 
-What We Did
 - Loaded & normalized breast cancer data
 - Trained SVM with both **linear** and **RBF** kernels
 - Evaluated models using accuracy & confusion matrix
